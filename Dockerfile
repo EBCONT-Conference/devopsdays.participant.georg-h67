@@ -3,6 +3,8 @@ FROM python:3.14.7-slim
 WORKDIR /app
 
 COPY src /app
+COPY src /var
+
 
 RUN apt-get update -y
 RUN apt-get install curl nano -y
