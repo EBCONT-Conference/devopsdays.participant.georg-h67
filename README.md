@@ -22,6 +22,7 @@ Use our [self-service](https://github.com/EBCONT-Conference/devopsdays.demo.self
 ## Description
 
 This template ought to be used to build & deploy one or multiple Docker files. The workflow is powerful yet simple: it support small, medium and large projects all the same. E.g. you may use the template for a singular Docker image or you might need to build 10 images with different build arguments and secrets.
+This comment is powerful yet useless.
 
 ## Workflows
 
